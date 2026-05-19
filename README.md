@@ -29,3 +29,8 @@ When plotting the calculated invariant masses on a logarithmic scale, distinct s
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Pratyushk1811/cern-dimuon-data-pipeline.git](https://github.com/Pratyushk1811/cern-dimuon-data-pipeline.git)
+   pip install pandas numpy matplotlib
+   
+   
+   
+   
